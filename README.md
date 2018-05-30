@@ -3,7 +3,6 @@ The code is written in Python 2.7
 Install Modules
 ---------------
 `pip install requests`
-`pip install json`
 
 Run the code
 ------------
