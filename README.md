@@ -9,7 +9,7 @@ Run the code
 
 View the output.json file on browser to get the formatted json output on browser
 
- - OR -
+           OR
 
 `python upc.py <PRODUCT_ID>` 
 
